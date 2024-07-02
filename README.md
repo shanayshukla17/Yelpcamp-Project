@@ -1,2 +1,2 @@
 # Yelpcamp-Project
-Yelpcamp is a dynamic website designed for travelers to explore hotels and share their experiences. 
+Yelpcamp is a dynamic website designed for travelers to explore hotels and share their experiences. Users can view detailed information about various hotels, leave comments about their stays, and engage with other users' comments through reactions. Built using a robust tech stack including HTML, CSS, JavaScript, EJS, Node.js, MongoDB, and Express.js, Yelpcamp leverages multiple APIs to enhance its functionality and provide a seamless user experience.
